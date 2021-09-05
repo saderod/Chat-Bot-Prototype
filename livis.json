@@ -1,0 +1,48 @@
+{"intents": [
+        {"tag": "Greetings",
+        "responses": ["hey", "hello", "hi", "whats up", "whats poppin", "what up g", "hey, whats up", "sup, how are you", "hey, whats up you good"],
+        "patterns": ["hello", "hi", "hey", "whats up?", "hey, how is everything going?", "Stefhon, whats up?", "hey Stefhon"],
+        "context_set": ""
+        },
+        {"tag": "alright",
+        "responses": ["ok ok thats good"],
+        "patterns": ["i'm alright", "yeah everything good", "im doing ok", "im fine"],
+        "context_set": ""
+        },
+        {"tag": "How are",
+        "responses": ["fine fine", "all good"],
+        "patterns": ["how are you doing?", "how are you?", "how is everything going?", "how is your mental health?", "you good?"],
+        "context_set": ""
+        },
+        {"tag": "Hbu",
+        "responses": ["oh im gucci, same stuff different day"],
+        "patterns": ["i'm alright, hbu", "yeah everything good, hbu?", "im doing ok, hbu?", "im fine, hbu?", "im alright, you?", "im doing okay, you?", "im fine, you?", "yeah everything is good, you?"],
+        "context_set": ""
+        },
+        {"tag": "Hows",
+        "responses": ["fine fine, how about you?"],
+        "patterns": ["how are you doing?", "how are you?", "how is everything going?", "how is your mental health?"],
+        "context_set": ""
+        },
+        {"tag": "Anything",
+        "responses": ["I am doing my usual: dancing, training, gym stuff and coding", "just coding right now", "working out right now", "exercising my biceps right now", "im doing homework actually"],
+        "patterns": ["anything new?", "whats new?", "what are you doing?", "what are you up to?", "what are you up to rn?", "what are you doing rn?", "what are you doing right now?", "what are you working on?", "are you working on anything new?"],
+        "context_set": ""
+        },
+        {"tag": "you doing r",
+        "responses": ["I am doing my usual: dancing, training, gym stuff and coding, hbu", "just coding right now, hbu", "working out right now, hbu", "exercising my biceps right now, hbu", "im doing homework actually. hbu"],
+        "patterns": ["anything new?", "whats new?", "what are you doing?", "what are you up to?", "what are you up to rn?", "what are you doing rn?", "what are you doing right now?", "what are you working on?", "are you working on anything new?"],
+        "context_set": ""
+        },
+        {"tag": "with",
+        "responses": ["ok ok, just wondering"],
+        "patterns": ["i am with my", "im with", "my", "friends", "family", "people", "parents", "just my"],
+        "context_set": ""
+        },
+        {"tag": "nothing",
+        "responses": ["oh ok ok gotcha"],
+        "patterns": ["nothing", "im not doing much", "nothing much", "kinda boring", "just classes", "just school", "plaiyng games with my siblings"],
+        "context_set": ""
+        }
+]
+}
